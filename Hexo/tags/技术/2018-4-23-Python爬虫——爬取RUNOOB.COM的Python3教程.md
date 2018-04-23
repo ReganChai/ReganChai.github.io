@@ -7,13 +7,10 @@
 
 ## 说明
 
-> 1. 关于Python开发环境搭建，可参考博主的另一篇博文---[Visual Studio 2017搭配OpenCV之Python环境](https://blog.csdn.net/u012319441/article/details/79586755)，省去其中的OpenCV配置及安装即可。另外，在做Python爬虫项目时，需要下载一些特定的Python库，在调用模块出错时，在Python环境中添加库路径即可
-
-> 2. 在本博文中，url为：[http://www.runoob.com/python3/python3-tutorial.html](http://www.runoob.com/python3/python3-tutorial.html)
-
-> 3. 博主提供配套源代码以及爬取到的Python3教程的 pdf 文档，有需要可在本博文末尾传送下载
-
-> 4. 由于博主水平有限，若解读有误造成误导，敬请谅解
+> 1. 关于Python开发环境搭建，可参考博主的另一篇博文---[Visual Studio 2017搭配OpenCV之Python环境](https://blog.csdn.net/u012319441/article/details/79586755)，省去其中的OpenCV配置及安装即可。另外，在做Python爬虫项目时，需要下载一些特定的Python库，在调用模块出错时，在Python环境中添加库路径即可    
+> 2. 在本博文中，url为：[http://www.runoob.com/python3/python3-tutorial.html](http://www.runoob.com/python3/python3-tutorial.html)    
+> 3. 博主提供配套源代码以及爬取到的Python3教程的 pdf 文档，有需要可在本博文末尾传送下载   
+> 4. 由于博主水平有限，若解读有误造成误导，敬请谅解   
 
 ## 准备工具
 
