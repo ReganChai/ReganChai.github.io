@@ -103,7 +103,7 @@
 
 		python RunoobToPdf.py
 
-2. 或者在IED环境中直接点击图标 ![](https://i.imgur.com/ssy87tr.png) 运行
+2. 或者在IED环境中直接点击图标![](https://i.imgur.com/ssy87tr.png)运行
 
 
 ## 七、效果图
