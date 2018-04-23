@@ -1,9 +1,9 @@
-## 开发环境  
+## 一、开发环境  
   - Windows 7 64位  
   - Python 3.6 
-  - Visual Studio 2017  
+  - Visual Studio 2017
 
-## 说明  
+## 二、说明  
 
  1. 关于Python开发环境搭建，可参考博主的另一篇博文---[Visual Studio 2017搭配OpenCV之Python环境](https://blog.csdn.net/u012319441/article/details/79586755)，省去其中的OpenCV配置及安装即可。另外，在做Python爬虫项目时，需要下载一些特定的Python库，在调用模块出错时，在Python环境中添加库路径即可   
 
@@ -13,7 +13,7 @@
 
  4. 由于博主水平有限，若解读有误造成误导，敬请谅解   
 
-## 准备工具
+## 三、准备工具
 
 - **requests**: 用于请求网络
 - **beautifulsoup**: 用于操作 html 数据
@@ -30,7 +30,7 @@
 
 
 -----------------------------------------------------------------------
-## Crawler基类构建
+## 四、Crawler基类构建
 
 1. 需要导入所需模块： 
 
@@ -61,7 +61,7 @@
 
 
 --------------------------------------------------------------------------------
-## 自定义爬虫类MyCrawler构建
+## 五、自定义爬虫类MyCrawler构建
 
 1. 导入上一步构建的模块，然后让该类对基类继承：
 
@@ -98,7 +98,7 @@
 		pdfkit.from_file(htmls, file_name, options = option_template)
 
 -------------------------------------------------------
-## 运行
+## 六、运行
 1. 以命令行的形式：
 
 		python RunoobToPdf.py
@@ -106,7 +106,7 @@
 2. 或者在IED环境中直接点击图标 ![](https://i.imgur.com/ssy87tr.png) 运行
 
 
-## 效果图
+## 七、效果图
 该程序是在号称宇宙最强的IED **Visual Studio 2017** 环境下编写的，其编辑界面如图：
 
 ![](https://i.imgur.com/82l1jWe.png)
@@ -116,11 +116,10 @@
 ![](https://i.imgur.com/N3cFMxN.png)
 
 
-## Other
+## 八、Other
 
 >Author：Regan_Chai
 >
 >E-Mail： regan_chai@163.com
 >
 >GitHub： https://github.com/ReganChai/CrawlerProject
-
