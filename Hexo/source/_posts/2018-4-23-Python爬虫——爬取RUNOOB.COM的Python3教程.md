@@ -118,8 +118,8 @@
 
 ## 八、Other
 
->Author：Regan_Chai
+>Author：Regan_Chai   
 >
->E-Mail： regan_chai@163.com
+>E-Mail： regan_chai@163.com   
 >
 >GitHub： https://github.com/ReganChai/CrawlerProject
